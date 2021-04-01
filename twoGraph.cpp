@@ -1,3 +1,7 @@
+#include <iostream>
+#include <vector>
+using namespace std;
+
 // 静态数组：表示顶点i的颜色
 int color[2010]={0};
 vector<int> graph[2010];
